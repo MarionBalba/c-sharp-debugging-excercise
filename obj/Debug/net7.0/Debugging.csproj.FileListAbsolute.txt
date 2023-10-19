@@ -1,0 +1,14 @@
+C:\Users\Marion\Projects\Microsoft\Debugging\bin\Debug\net7.0\Debugging.exe
+C:\Users\Marion\Projects\Microsoft\Debugging\bin\Debug\net7.0\Debugging.deps.json
+C:\Users\Marion\Projects\Microsoft\Debugging\bin\Debug\net7.0\Debugging.runtimeconfig.json
+C:\Users\Marion\Projects\Microsoft\Debugging\bin\Debug\net7.0\Debugging.dll
+C:\Users\Marion\Projects\Microsoft\Debugging\bin\Debug\net7.0\Debugging.pdb
+C:\Users\Marion\Projects\Microsoft\Debugging\obj\Debug\net7.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marion\Projects\Microsoft\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\Marion\Projects\Microsoft\Debugging\obj\Debug\net7.0\Debugging.AssemblyInfo.cs
+C:\Users\Marion\Projects\Microsoft\Debugging\obj\Debug\net7.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Marion\Projects\Microsoft\Debugging\obj\Debug\net7.0\Debugging.dll
+C:\Users\Marion\Projects\Microsoft\Debugging\obj\Debug\net7.0\refint\Debugging.dll
+C:\Users\Marion\Projects\Microsoft\Debugging\obj\Debug\net7.0\Debugging.pdb
+C:\Users\Marion\Projects\Microsoft\Debugging\obj\Debug\net7.0\Debugging.genruntimeconfig.cache
+C:\Users\Marion\Projects\Microsoft\Debugging\obj\Debug\net7.0\ref\Debugging.dll
